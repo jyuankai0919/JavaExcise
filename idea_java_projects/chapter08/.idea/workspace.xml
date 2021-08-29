@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c78901cc-810f-40da-98e9-13f384b8737d" name="Changes" comment="test02">
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/utils/Utility.java" afterDir="false" />
+    <list default="true" id="c78901cc-810f-40da-98e9-13f384b8737d" name="Changes" comment="21/08/29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/service/HouseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/service/HouseService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/view/HouseView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/view/HouseView.class" afterDir="false" />
@@ -25,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -34,6 +39,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="10eaae4e-8ad0-4aa7-8452-84fc0f419fbd" />
   </component>
   <component name="ProjectId" id="1wPTaoaroq0MLvVWSfd2AlplL9I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -51,7 +59,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Application.HouseRentApp">
     <configuration name="HomeWork13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -129,7 +137,7 @@
       <workItem from="1629567092136" duration="462000" />
       <workItem from="1629903483297" duration="7507000" />
       <workItem from="1630002894214" duration="6309000" />
-      <workItem from="1630229417315" duration="11360000" />
+      <workItem from="1630229417315" duration="17869000" />
     </task>
     <task id="LOCAL-00001" summary="test01">
       <created>1630230091215</created>
@@ -152,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630232615086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="21/08/29">
+      <created>1630248840817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630248840817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +187,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test01" />
     <MESSAGE value="test02" />
-    <option name="LAST_COMMIT_MESSAGE" value="test02" />
+    <MESSAGE value="21/08/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/08/29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -184,5 +200,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
