@@ -4,71 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c78901cc-810f-40da-98e9-13f384b8737d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Tower.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../arrayHW04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../arrayHW04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../bai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../for1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../for1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../forgame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../forgame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/Homework13/HomeWork13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/Homework13/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/Homework13/Studen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/Homework13/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/HouseRentApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/domain/House.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/service/HouseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/view/HouseView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/money_OOP/SmallChangeSys_OOP_APP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/money_OOP/SmallChangeSys_oop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/monry_/SmallChangeSys.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/Homework13/HomeWork13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/Homework13/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/Homework13/Studen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/Homework13/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/HouseRentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/domain/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/service/HouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/view/HouseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/money_OOP/SmallChangeSys_OOP_APP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/money_OOP/SmallChangeSys_oop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/monry_/SmallChangeSys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/hello.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/out/production/hello/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/out/production/hello/MyTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/out/production/hello/chapter08.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/out/production/hello/testtemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/src/chapter08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello/src/testtemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../whileDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../whileDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../whileDetail02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../whileDetail02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../yangHui.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../yangHui.java" afterDir="false" />
+    <list default="true" id="c78901cc-810f-40da-98e9-13f384b8737d" name="Changes" comment="test01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,8 +122,23 @@
       <workItem from="1629567092136" duration="462000" />
       <workItem from="1629903483297" duration="7507000" />
       <workItem from="1630002894214" duration="6309000" />
-      <workItem from="1630229417315" duration="606000" />
+      <workItem from="1630229417315" duration="1312000" />
     </task>
+    <task id="LOCAL-00001" summary="test01">
+      <created>1630230091215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630230091215</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test01">
+      <created>1630230185871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630230185871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +154,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test01" />
+    <option name="LAST_COMMIT_MESSAGE" value="test01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
