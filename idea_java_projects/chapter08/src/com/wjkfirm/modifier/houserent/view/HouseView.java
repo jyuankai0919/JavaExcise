@@ -33,7 +33,7 @@ public class HouseView {
         String state = scanner.next();
 
         //新增一個House對象，ID是系統給的，無法自訂。
-        House newHouse = new House(0, name, "\t" + phone, address + "\t", rent, state);
+        House newHouse = new House(0, name, phone, address, rent, state);
 
         //已將newHouse傳入HouseService中後加入houses數組中，等service判斷是否成功回傳T/F
         if (houseService.add(newHouse)) {
@@ -105,21 +105,23 @@ public class HouseView {
             String name = scanner.next();
             house.setName(name);
 
-            System.out.println("電話:(" + house.getPhone() + ")");
+            System.out.print("電話:(" + house.getPhone() + ")");
             String phone = scanner.next();
             house.setPhone(phone);
 
-            System.out.println("地址:(" + house.getAddress() + ")");
+            System.out.print("地址:(" + house.getAddress() + ")");
             String address = scanner.next();
             house.setAddress(address);
 
-            System.out.println("月租:(" + house.getRent() + ")");
+            System.out.print("月租:(" + house.getRent() + ")");
             int rant = scanner.nextInt();
             house.setRent(rant);
 
-            System.out.println("狀態:(" + house.getState() + ")");
+            System.out.print("狀態:(" + house.getState() + ")");
             String state = scanner.next();
             house.setState(state);
+            System.out.println("================成功修改房屋列表================\n");
+
         } else {
             System.out.println("================無效的房屋編號================\n");
             return;
@@ -127,7 +129,7 @@ public class HouseView {
     }
     //5.顯示房屋列表
     public void listHouses() {
-        System.out.println("==================房屋列表==================\n");
+        System.out.println("==================房屋列表==================");
         System.out.println("編號\t\t房主\t\t電話\t\t地址\t\t月租\t\t狀態(未出租/已出租)");
         House[] houses = houseService.list();
         for (int i = 0; i < houses.length; i++) {
