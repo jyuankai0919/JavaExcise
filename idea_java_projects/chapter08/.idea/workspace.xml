@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c78901cc-810f-40da-98e9-13f384b8737d" name="Changes" comment="test01" />
+    <list default="true" id="c78901cc-810f-40da-98e9-13f384b8737d" name="Changes" comment="test02">
+      <change afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/utils/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/service/HouseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/service/HouseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/view/HouseView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter08/com/wjkfirm/modifier/houserent/view/HouseView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/view/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wjkfirm/modifier/houserent/view/HouseView.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +36,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1wPTaoaroq0MLvVWSfd2AlplL9I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -120,7 +129,7 @@
       <workItem from="1629567092136" duration="462000" />
       <workItem from="1629903483297" duration="7507000" />
       <workItem from="1630002894214" duration="6309000" />
-      <workItem from="1630229417315" duration="1906000" />
+      <workItem from="1630229417315" duration="11360000" />
     </task>
     <task id="LOCAL-00001" summary="test01">
       <created>1630230091215</created>
@@ -136,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630230185871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test02">
+      <created>1630232615086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630232615086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test01" />
-    <option name="LAST_COMMIT_MESSAGE" value="test01" />
+    <MESSAGE value="test02" />
+    <option name="LAST_COMMIT_MESSAGE" value="test02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
